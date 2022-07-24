@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
     </a>
     
     
-   [! [spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&redirect=true) 
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&redirect=true) 
 
