@@ -26,3 +26,7 @@ You can click the Preview link to take a look at your changes.
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Dhaneshwar-Singh&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
+    
+    
+   [! [spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=wfx1mqyzwwj2alngem76mlsy7&redirect=true) 
+
