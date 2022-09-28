@@ -28,7 +28,3 @@ You can click the Preview link to take a look at your changes.
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Dhaneshwar-Singh&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
-[![@dhaneshwarsingh's Holopin board](https://holopin.io/api/user/board?user=dhaneshwarsingh)](https://holopin.io/@dhaneshwarsingh)
-    
-    
-   
